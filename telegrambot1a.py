@@ -1,5 +1,4 @@
 import streamlit as st
-import telethon
 from telethon import TelegramClient
 import asyncio
 import json
